@@ -203,7 +203,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TP Séance 7 — Forum anonyme</title>
+  <title>TP  7 — Forum anonyme</title>
   <link rel="stylesheet" href="css/tp-seance-7.css">
 </head>
 <body>
